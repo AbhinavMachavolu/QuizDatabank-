@@ -6,7 +6,7 @@ questions = [
         "question": "Which of the following choices is the correct IUPAC name for the molecule below?",
         "options": ["3-ethyl-4,4-dimethylheptane", "4,4-bimethyl-3-ethylheptane", "5-ethyl-4,4-dimethylheptane", "4,4-dimethyl-3-ethylheptane"],
         "correct_answer": "3-ethyl-4,4-dimethylheptane",
-        "image": "/Users/abhinavmachavolu/Downloads/assets/1.png"
+        "image": "1.png"
     },
     {
         "question": "What is the functional group in an alcohol molecule?",
